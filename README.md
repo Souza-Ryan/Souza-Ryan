@@ -1,0 +1,17 @@
+-  (pt-br) Ola, Meu nome é Ryan Souza
+-  (ing-us) Hi, I’m @Ryan
+-  
+-  (pt-br) Sou interessado em tudo que envolve computação e suas variaveis, principalmente programação.
+-  (ing-us) I’m interested in everything that involves computation and its variables, mainly programming.
+-  
+-  (pt-br) atualmente estou aprendendo JavaScript, e começando NodeJS.
+-  (ing-us) I’m currently learning JavaScript, starting with NodeJS.
+-  
+-  (pt-br) Procuro colaborar na area de Back-End e partir para um FullStak.
+-  (ing-us) I’m looking to collaborate in the Back-End area and go for a FullStak.
+-  
+-  (pt-br) Caso queira mais informações entre em contato comigo pelo email ryanlucassouza@hotmail.com.
+-  (ing-us) If you want more information, please contact me by email ryanlucassouza@hotmail.com.
+-
+- (pt-br) Pretendo colocar meus aprendizados em pretica logo logo, não vejo a hora de programar sites ou jogos.
+- (ing-us) I intend to put my learnings into practice soon, I can't wait to program websites or games.
