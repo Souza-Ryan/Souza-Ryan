@@ -17,8 +17,8 @@
 - (ing-us) I intend to put my learnings into practice soon, I can't wait to program websites or games.
 <div align="center">
   <a href="https://https://github.com/Souza-Ryan>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza-Ryan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img width="42%" src="link">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/><img width="50%" src="link">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souza-Ryan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" <img width="42%" src="link">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souza-Ryan&layout=compact&langs_count=7&theme=dark" img width="50%" src="link">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
