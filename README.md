@@ -1,5 +1,5 @@
--  (pt-br) Ola, Meu nome é Ryan Souza
--  (ing-us) Hi, I’m @Ryan
+-  (pt-br) Ola, Meu nome é Ryan Souza.
+-  (ing-us) Hi, I’m Ryan Souza.
 -  
 -  (pt-br) Sou interessado em tudo que envolve computação e suas variaveis, principalmente programação.
 -  (ing-us) I’m interested in everything that involves computation and its variables, mainly programming.
