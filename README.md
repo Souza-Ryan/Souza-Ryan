@@ -4,8 +4,8 @@
 -  (pt-br) Sou interessado em tudo que envolve computação e suas variaveis, principalmente programação.
 -  (ing-us) I’m interested in everything that involves computation and its variables, mainly programming.
 -  
--  (pt-br) atualmente estou aprendendo JavaScript, e começando NodeJS.
--  (ing-us) I’m currently learning JavaScript, starting with NodeJS.
+-  (pt-br) Tenho noção em C | JavaScript | Banco de Dados.
+-  (ing-us) I have some knowledge in C | JavaScript | Database.
 -  
 -  (pt-br) Procuro colaborar na area de Back End e partir para um FullStak.
 -  (ing-us) I’m looking to collaborate in the Front-End area and go for a FullStak.
